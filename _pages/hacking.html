@@ -10,6 +10,10 @@ permalink: /hacking.html
   {% for advisory in site.data.advisories %}
   <article>
     <h3>{{ advisory.title }}</h3>
+    <p style="font-size:14px">
+      <b>Date:</b> {{ advisory.date }} | <b>CVE:</b> {{ advisory.cvs | join: ", " }}
+    </p>
+    
     <p style="padding-top: 1em;">
       <!-- <img src="{{ advisory.img }}" align="left" style=""> -->
       {{ advisory.abstract }} [<a href="{{ advisory.link }}"> <b>Read more</b></a>]
