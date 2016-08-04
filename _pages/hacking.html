@@ -11,8 +11,8 @@ permalink: /hacking.html
   <article>
     <h3>{{ advisory.title }}</h3>
     <p style="padding-top: 1em;">
-      <img src="{{ advisory.img }}" align="left" style="">
-      {{ advisory.abstract }} <a href="{{ advisory.link }}"><b>Read more</b></a>.
+      <!-- <img src="{{ advisory.img }}" align="left" style=""> -->
+      {{ advisory.abstract }} <a href="{{ advisory.link }}"> [<b>Read more</b>]</a>.
       <br><br>
       <b>Date:</b> {{ advisory.date }} <b>CVE:</b> {{ advisory.cvs | join: ", " }}
     </p>
