@@ -4,9 +4,6 @@ permalink: /hacking.html
 ---
 
 <p>
-   These are some of the security advisories I published during the last
-   years. Most of them were released on BugTraq, my blog or on
-   <a href="https://github.com/ud2/advisories">this</a> repository.
 </p>
 
 <div id="cust__hacking">
@@ -15,9 +12,9 @@ permalink: /hacking.html
     <h3>{{ advisory.title }}</h3>
     <p style="padding-top: 1em;">
       <img src="{{ advisory.img }}" align="left" style="padding-right: 1em;">
-      {{ advisory.abstract }}
-      <br><br>
-      Read more <a href="{{ advisory.link }}"><b>here</b></a>.
+      {{ advisory.abstract }} <a href="{{ advisory.link }}"><b>Read more</b></a>.
+      <br>
+      Date: {{ advisory.date }} CVE: {{ advisory.cvs | join: ", " }}
     </p>
   </article>
   {% endfor %}
