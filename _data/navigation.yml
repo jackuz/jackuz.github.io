@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /
 
-  - title: "Posts"
-    url: /posts.html
-
-  - title: "Hack & Competition"
+  - title: "Hacking & Posts"
     url: /hacking.html
 
-  - title: "Teaching & Talk"
+  - title: "Teaching"
     url: /teaching.html
+
+  - title: "Competition"
+    url: /competition.html
