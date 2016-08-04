@@ -1,7 +1,7 @@
 lgiancane:
   name             : "Luca Giancane"
   avatar           : "bio-photo.jpg"
-  bio              :  "<span style=\"font-size: 90%;text-align:justify\">&quot;Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest&quot;<span style=\"color: grey;\">(Isaac Asimov)</span></span>"
+  bio              :  "<span style=\"font-size: 85%;\">&quot;Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest&quot;<span style=\"color: grey;\">(Isaac Asimov)</span></span>"
   location         : "Turin, IT"
   email            : cesaluca@gmail.com
   uri              : 
