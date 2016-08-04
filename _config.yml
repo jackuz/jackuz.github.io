@@ -1,9 +1,9 @@
 # Site Settings
 locale                   : "en_US"
-title                    : "@jack"
+title                    : ""
 title_separator          : "-"
 name                     : "Luca Giancane"
-description              : "An amazing website."
+description              : "Luca Giancane's homepage"
 url                      : # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
