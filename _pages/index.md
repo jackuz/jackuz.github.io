@@ -5,7 +5,7 @@ permalink: /
 
 I’m now working as a IT Senior Security Consultant at
 [Security Reply](http://www.reply.eu/it/topics/security/). In particular my main activity is designing
-and managing data protection/encryption solutions to intesa sanpaolo (https://www.intesasanpaolo.com).
+and managing data protection/encryption solutions to [Intesa Sanpaolo](https://www.intesasanpaolo.com).
 
 From late 2010 to 2016, I worked as a IT Senior Security Consultant at
 [Emaze](http://blog.emaze.net/), a security company based in Milan, Italy. Here
