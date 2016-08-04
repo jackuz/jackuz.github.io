@@ -1,5 +1,5 @@
 # Site Settings
-locale                   : "en_US"
+locale                   : "en-US"
 title                    : "@jack"
 title_separator          : "-"
 name                     : "Luca Giancane"
