@@ -6,15 +6,15 @@ permalink: /hacking.html
 <p>
 </p>
 
-<div id="cust__hacking">
+<div id="index">
   {% for advisory in site.data.advisories %}
   <article>
     <h3>{{ advisory.title }}</h3>
     <p style="padding-top: 1em;">
-      <img src="{{ advisory.img }}" align="left" style="padding-right: 1em;">
+      <img src="{{ advisory.img }}" align="left" style="">
       {{ advisory.abstract }} <a href="{{ advisory.link }}"><b>Read more</b></a>.
-      <br>
-      Date: {{ advisory.date }} CVE: {{ advisory.cvs | join: ", " }}
+      <br><br>
+      <b>Date:</b> {{ advisory.date }} <b>CVE:</b> {{ advisory.cvs | join: ", " }}
     </p>
   </article>
   {% endfor %}
