@@ -8,14 +8,15 @@ permalink: /hacking.html
 
 <div id="index">
   {% for advisory in site.data.advisories %}
+
   <article>
     <h3>{{ advisory.title }}</h3>
    
     <p style="padding-top: 1em;">
-      <!-- <img src="{{ advisory.img }}" align="left" style=""> -->
       {{ advisory.abstract }} [<a href="{{ advisory.link }}"> <b>Read more</b></a> ]<br>
       <i><b>Date:</b> ({{ advisory.date }} <b>CVE:</b> {{ advisory.cvs | join: ", " }}</i>
     </p>
+
   </article>
   {% endfor %}
 </div>
