@@ -4,10 +4,10 @@ main:
     url: /
 
   - title: "Posts"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+    url: /posts.html
 
   - title: "Hack & Competition"
-    url: /
+    url: /hacking.html
 
   - title: "Teaching & Talk"
-    url: /
+    url: /teaching.html
