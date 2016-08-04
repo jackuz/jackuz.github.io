@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en_US"
 title                    : "@jack"
 title_separator          : "-"
 name                     : "Luca Giancane"
@@ -64,7 +64,7 @@ author:
   name             : "Luca Giancane"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Turin, Italy"
   email            : cesaluca@gmail.com
   uri              : 
   bitbucket        :
