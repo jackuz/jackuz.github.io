@@ -41,7 +41,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               : cesaluca@libero.it
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -71,10 +71,10 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : cesaluca@libero.it
+  facebook         : luca.giancane
   foursquare       :
   github           : jackuz
-  google_plus      : cesaluca
+  google_plus      : Lucagiancane
   keybase          : 
   instagram        :
   lastfm           :
