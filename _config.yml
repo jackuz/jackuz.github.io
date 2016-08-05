@@ -53,6 +53,8 @@ defaults:
       layout: single
       header: {}
 
+breadcrumbs: true
+
 # Reading Files
 include:
   - .htaccess
