@@ -18,6 +18,6 @@ web application" ([Thesis](/pubs/lgiancane-msc-thesis.pdf), in Italian |
 [Presentation](/pubs/lgiancane-msc-thesis-slides.pdf), in Italian).
 
 On October 25, 2007, I got my B.Sc. degree in Computer Science from
-[Università degli Studi di Milano](http://www.unimi.it/). The work I did for my M.Sc. thesis is titled
+[Università degli Studi di Milano](http://www.unimi.it/). The work I did for my B.Sc. thesis is titled
 "Dynamic analysis of executable code" ([Thesis](/pubs/lgiancane-bsc-thesis.pdf), in Italian |
 [Presentation](/pubs/lgiancane-bsc-thesis-slides.pdf), in Italian).
