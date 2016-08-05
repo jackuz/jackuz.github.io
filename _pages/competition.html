@@ -1,0 +1,24 @@
+---
+title: Hacking competitions
+permalink: /hacking.html
+---
+
+<p>
+I am a member of the hacking team ChocolateMakers, also known as Guard@MyLan0. The team is affiliated with the LaSeR laboratory (Universit&agrave; degli Studi di Milano). With the team I partecipated to various hacking contests, including CODEGATE, DEFCON, iCTF and CIPHER.
+</p>
+
+<div id="index">
+  {% for competition in site.data.competitions %}
+
+  <article>
+    <h3>{{ competition.title }}</h3>
+   
+    <p>
+      {{ competition.desc }} [<a href="{{ competition.link }}"> <b>Site</b></a> ]<br>
+      <i style="font-size:16px;"><b>Date:</b> {{ competition.date }}
+      </i>
+    </p>
+
+  </article>
+  {% endfor %}
+</div>

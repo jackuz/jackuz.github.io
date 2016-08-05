@@ -1,0 +1,38 @@
+- title: CODEGATE2010
+  date: 2010
+  desc: CODEGATE is an international security conference that includes a Capture The Flag (CTF) hacking competition.
+  The team "Guard@MyLan0" participated in the contest and, after being able to gain the 2nd position, suffered the lack
+  of sleep and ended up in the 8th position. Despite the final crackdown, we qualified for CODEGATE 2010 CTF finals that
+  will be held in Seoul, South Korea!
+  link: http://security.di.unimi.it/codegate10.shtml
+
+- title: UCSB iCTF 2009
+  date: 2009
+  desc: The UCSB international Capture the Flag contest is a distributed, wide-area security exercise, whose goal
+  is to test the security skills of students from both the attack and defense viewpoints. The team "Chocolate Makers"
+  participated in the contest and captured the 3rd place.
+  link: https://ictf.cs.ucsb.edu/
+
+- title: CODEGAE2009
+  date: 2009
+  desc: CODEGATE is an international security conference that includes a Capture The Flag (CTF) hacking competition.
+  The team "Guard@MyLan0" participated in the contest and captured the 5th place, so qualifying for CODEGATE 2009 CTF
+  finals that will be held in Seoul, South Korea! 
+  link: http://security.di.unimi.it/codegate09.shtml
+  
+- title: DEFCON16
+  date: 2008
+  desc: DEFCON is the largest underground hacker convention. DEFCON comprises several different contests and events,
+  including one of the biggest Capture the Flag (CTF) hacking competitons. The qualification competition for DEFCON 16
+  Capture the Flag enclosed about 370 different teams from all over the world. Only the first 7 teams qualify.
+  The team "Guard@MyLan0" participated in the contest and captured the 3rd place in the qualification phase and the 5rd place
+  in the finals in Las Vegas!
+  As far as we know, Guard@MyLan0 is the first italian team that has ever been able to qualify to the final round of Defcon CTF!
+  link: https://www.defcon.org/html/defcon-16/dc-16-contest-results.html
+
+- title: UCSB iCTF 2007
+  date: 2007
+  desc: The UCSB international Capture the Flag contest is a distributed, wide-area security exercise, whose goal
+  is to test the security skills of students from both the attack and defense viewpoints. The team "Chocolate Makers"
+  participated in the contest and managed to win!
+  link: https://ictf.cs.ucsb.edu/
