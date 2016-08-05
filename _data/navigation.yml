@@ -9,5 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching.html
 
+  - title: "Certification"
+    url: /cert.html
+
   - title: "Competition"
     url: /competition.html
