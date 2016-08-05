@@ -7,14 +7,12 @@
 
 - title: Backdoor access to Techboard/Syac devices
   date: 07/07/2014
-  cvs: []
   link: http://seclists.org/bugtraq/2014/Jul/17
   abstract: During a security assessment on one of our customers, we had the opportunity to analyze a device by Techboard/Syac, a manufacturer of digital video recorders (DVR) and network cameras. In particular, our analysis focused on a device of the DigiEye product line. The assessment led to the identification of a "backdoor" service, originally introduced by the device manufacturer for testing and support purposes, that could be abused by remote attackers to execute arbitrary commands on the device, with administrative privileges.
   img: /images/syactb.jpg
 
 - title: Attack campaign targeting Apache Struts2 vulnerability
   date:  04/29/2014
-  cvs: []
   link: http://blog.emaze.net/2014/04/attack-campaign-targeting-struts2.html
   abstract: At the beginning of March, a security advisory was published about two high-impact issues affecting Apache Struts2, a widely-used framework to create Java web applications. Despite they can be exploited to cause either a DoS (CVE-2014-0050) or to gain remote code execution on the affected server (CVE-2014-0094), these vulnerabilities have not raised much interest until a proof-of-concept exploit was published on a Chinese blog in April, followed by a more detailed write-up describing the technical details of the attack. In addition, on April 24th, researchers from Vulnhunt showed the inefficacy of the countermeasures initially proposed as a workaround to address the bugs. As usually happens in these cases, after the publication of the PoC attackers started to mass-scan the Internet, searching for vulnerable servers. As a consequence, in these days we observed automated attacks trying to exploit CVE-2014-0094. All the attacks we observed so far are originated from a single source IP, namely 162.213.24.40.
   img: /images/struts2.png
