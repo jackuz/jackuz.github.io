@@ -13,11 +13,12 @@ permalink: /hacking.html
     <h3>{{ advisory.title }}</h3>
    
     <p>
-      {{ advisory.abstract }} [<a href="{{ advisory.link }}"> <b>Read more</b></a> ]<br>
+      {{ advisory.abstract }} <br>
       <i style="font-size:16px;"><b>Date:</b> {{ advisory.date }}
 	{% if advisory.cvs != null %}
 	<b>CVE:</b> {{ advisory.cvs | join: ", " }}
 	{% endif %}
+	[<a href="{{ advisory.link }}"><b>Read more</b></a>]
       </i>
     </p>
 
