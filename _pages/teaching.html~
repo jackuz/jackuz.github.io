@@ -1,0 +1,26 @@
+---
+title: Teaching experiences
+permalink: /teaching.html
+---
+
+<p>
+</p>
+
+<div id="index">
+  {% for course in site.data.courses %}
+
+  <article>
+    <h3>{{ course.title }}</h3>
+   
+    <p>
+      {{ course.desc }} [<a href="{{ advisory.link }}"> <b>Read more</b></a> ]<br>
+      <i style="font-size:16px;"><b>Date:</b> {{ advisory.date }}
+	{% if advisory.cvs != null %}
+	<b>CVE:</b> {{ advisory.cvs | join: ", " }}
+	{% endif %}
+      </i>
+    </p>
+
+  </article>
+  {% endfor %}
+</div>
