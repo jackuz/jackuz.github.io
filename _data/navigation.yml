@@ -6,11 +6,11 @@ main:
   - title: "Hacking & Posts"
     url: /hacking.html
 
-  - title: "Teaching"
-    url: /teaching.html
-
   - title: "Certification"
     url: /cert.html
+
+  - title: "Teaching"
+    url: /teaching.html
 
   - title: "Competition"
     url: /competition.html
