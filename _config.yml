@@ -1,8 +1,8 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "@jack"
+title                    : "Luca Giancane"
 title_separator          : "-"
-name                     : "Luca Giancane"
+name                     : "@jack"
 description              : "Luca Giancane's homepage"
 url                      : # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
