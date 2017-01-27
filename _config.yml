@@ -2,7 +2,7 @@
 locale                   : "en-US"
 title                    : "Luca Giancane"
 title_separator          : "-"
-name                     : "@jack"
+name                     : ""
 description              : "Luca Giancane's homepage"
 url                      : # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
