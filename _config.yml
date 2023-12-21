@@ -4,7 +4,7 @@ title                    : "Luca Giancane"
 title_separator          : "-"
 name                     : ""
 description              : "Luca Giancane's homepage"
-url                      : https://jack.artificialstudios.org/
+url                      : https://jack.artificialstudios.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : 
